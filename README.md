@@ -1,12 +1,12 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:1e40af&height=200&section=header&text=Abdullah Al%20Maruf&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=DevOps%20%7C%20AIOps%20%7C%20Cloud-Native%20Security&descAlignY=58&descSize=18&animation=fadeIn" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:1e40af&height=200&section=header&text=Abdullah%20Al%20Maruf&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=DevOps%20%7C%20AIOps%20%7C%20Cloud-Native%20Security&descAlignY=58&descSize=18&animation=fadeIn" width="100%" />
 
 </div>
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&duration=3000&pause=800&color=60A5FA&center=true&vCenter=true&width=700&lines=CKA+%7C+CKAD+%7C+CKS+%7C+KCNA+%7C+KCSA+%E2%80%94+Kubestronaut+Track;Building+observable%2C+secure%2C+self-healing+infrastructure;AIOps+%7C+DevSecOps+%7C+Cloud-Native+Engineering;Final-year+SWE+%40+AIUB+%7C+Open+to+global+opportunities)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&duration=3000&pause=800&color=60A5FA&center=true&vCenter=true&width=700&lines=CKA+%7C+CKAD+%7C+CKS+%7C+KCNA+%7C+KCSA+%E2%80%94+Kubestronaut+Track;Building+observable%2C+secure%2C+self-healing+infrastructure;AIOps+%7C+DevSecOps+%7C+Cloud-Native+Engineering;Final-year+SWE+%40+Daffodil%20International%20University+%7C+Open+to+global+opportunities)](https://git.io/typing-svg)
 
 </div>
 
@@ -22,7 +22,7 @@ My focus: **AIOps** — using ML-driven observability, automated remediation, an
 - 🎯 Building: [`cloud-native-aiops-platform`](#) — ML anomaly detection + Kubernetes + full observability stack
 - 🌱 Currently deepening: Prometheus/Grafana, OpenTelemetry, Argo CD, DevSecOps pipelines
 - 💬 Ask me about: Kubernetes internals, cloud security architecture, DevSecOps pipelines
-- 📫 Reach me: [LinkedIn](#) · [Email](mailto:your@email.com)
+- 📫 Reach me: [LinkedIn](https://www.linkedin.com/in/abdullah-al-maruf-a2959a38b/) · [Email](mailto:marufabdullah.mld24@gmail.com)
 
 ---
 
@@ -192,8 +192,8 @@ AIOps / ML anomaly det.  ████████████░░░░░░�
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](#)
-[![Email](https://img.shields.io/badge/Email-Reach_out-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your@email.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abdullah-al-maruf-a2959a38b/)
+[![Email](https://img.shields.io/badge/Email-Reach_out-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:marufabdullah.mld24@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white)](#)
 
 *Open to: DevOps Engineer · Platform Engineer · AIOps Engineer · Cloud Security Engineer · SRE · Remote roles globally*
